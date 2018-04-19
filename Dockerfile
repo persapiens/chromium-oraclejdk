@@ -1,4 +1,4 @@
-FROM persapiens/oraclejdk:8u161
+FROM persapiens/oraclejdk:8u171
 MAINTAINER Marcelo Fernandes <persapiens@gmail.com>
 
 # install headless gui tools, chromium and create chromium folders
